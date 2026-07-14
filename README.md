@@ -1,16 +1,21 @@
-## Hi there 👋
+# 塀の中でもバズりたい
 
-<!--
-**heinonakademobazuritai/heinonakademobazuritai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ようこそ、塀の中（気分）へ。
 
-Here are some ideas to get you started:
+外出は控えめ。
+コードは無制限。
+更生ではなく更新中。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📺 YouTube
+https://youtube.com/channel/UCbxiX6X8LQ0KSZk3UzGYxlg?si=vkOC1u36uHHaX4Qr
+
+## 🛠️ このリポジトリについて
+
+ネタ・ツール・実験コードなどを公開しています。
+
+目標：
+- 塀の中でもバズる
+- 面白いものを作る
+- 毎日コミット
+
+> ※すべてフィクション・ジョークです。
