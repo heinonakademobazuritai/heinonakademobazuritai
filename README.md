@@ -2,20 +2,35 @@
 
 ようこそ、塀の中（気分）へ。
 
-外出は控えめ。
-コードは無制限。
+外出は控えめ。  
+コードは無制限。  
 更生ではなく更新中。
 
 ## 📺 YouTube
-https://youtube.com/channel/UCbxiX6X8LQ0KSZk3UzGYxlg?si=vkOC1u36uHHaX4Qr
+
+https://youtube.com/channel/UCbxiX6X8LQ0KSZk3UzGYxlg
 
 ## 🛠️ このリポジトリについて
 
-ネタ・ツール・実験コードなどを公開しています。
+「塀の中でもバズりたい」をテーマにした、
+ネタ・ツール・実験コード・チャンネル素材を管理するリポジトリです。
 
-目標：
+## 📁 Contents
+
+- 🖼️ YouTubeプロフィール画像
+- 🖼️ YouTubeヘッダー画像
+- 📝 更新履歴
+- ⚙️ GitHub Actions
+- 💻 実験コード
+
+## 🎯 目標
+
 - 塀の中でもバズる
 - 面白いものを作る
-- 毎日コミット
+- 毎日コミットする
+
+## 📜 Updates
+
+更新履歴は `CHANGELOG.md` に記録します。
 
 > ※すべてフィクション・ジョークです。
